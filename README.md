@@ -1,9 +1,15 @@
 # Hi 👋🏾 My name is Gwendolyn Asani
+
 ## Full Stack Software Engineer 
+
 - 🌎 I'm based in North America & working remotely
+
 - 🖥 View my portfolio [here](https://www.gwendolynasani.me/)
+
 - ✉️ You can contact me at gwen.asani9@gmail.com
+
 - 🚀 I’m currently working on a project called "Murder Ducks"
+
 - 🎓 In addition to building, I'm currently learning UX Design
 
 ## 💻 Tech Stack & Skills
