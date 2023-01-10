@@ -8,7 +8,7 @@
 
 - ✉️ You can contact me at gwen.asani9@gmail.com
 
-- 🚀 I’m currently working on a project called "Murder Ducks"
+- 🚀 I’m currently working on a project called "TV Show Search"
 
 - 🎓 In addition to building, I'm currently learning UX Design
 
