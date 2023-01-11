@@ -8,7 +8,7 @@
 
 - ✉️ You can contact me at gwen.asani9@gmail.com
 
-- 🚀 I’m currently working on a project called "TV Show Search"
+- 🚀 I’m currently working on a project called [TV Show Search](https://whatsthatshow.netlify.app/)
 
 - 🎓 In addition to building, I'm currently learning UX Design
 
