@@ -10,7 +10,6 @@
 
 - 🚀 I’m currently working on a project called [TV Show Search](https://whatsthatshow.netlify.app/)
 
-- 🎓 In addition to building, I'm currently learning UX Design
 
 ## 💻 Tech Stack & Skills
 
