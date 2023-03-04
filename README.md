@@ -1,6 +1,6 @@
-# Hi 👋🏾 My name is Gwendolyn Asani
+## Hi, I'm Gwen 👋🏾 
 
-## Full Stack Software Engineer 
+### Full Stack Software Engineer 
 
 - 🌎 I'm based in North America & working remotely
 - 🖥 View my portfolio [here](https://www.gwendolynasani.me/)
