@@ -1,4 +1,4 @@
-
+![Gwendolyn Asani](https://www.dropbox.com/s/dyuaxgdb88wnvk6/Linkedin%20Banner.png?dl=0)
 
 ## Hi, I'm Gwendolyn Asani 👋🏾 
 
