@@ -3,7 +3,7 @@
 # Hi, I'm Gwendolyn Asani 👋🏾 
 
 - 🌎 I'm based in Hampton Roads Metro, VA & working remotely
-- 🔍 I'm a Software Engineer with a background in Online Business Management
+- 🔍 I'm a Software Engineer with a background in Project Management
 - 🖥 View my portfolio [here](https://www.gwendolynasani.me/)
 - ✉️ You can contact me at gwen.asani9@gmail.com
 - ✨ I’m looking to collaborate on Open Source projects
