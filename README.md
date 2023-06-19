@@ -1,4 +1,4 @@
-![](https://github.com/gwendolyn954/gwendolyn954/blob/main/Linkedin%20Banner.png)
+![](https://github.com/gwendolyn954/gwendolyn954/blob/main/linkedin-github-banner.png)
 
 # Hi, I'm Gwendolyn Asani 👋🏾 
 
