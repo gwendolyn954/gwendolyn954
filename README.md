@@ -1,6 +1,6 @@
 ![](https://github.com/gwendolyn954/gwendolyn954/blob/main/linkedin-github-banner.png)
 
-# Hey, I'm Gwendolyn Asani!
+# Hey, I'm Gwendolyn!
 
 I'm a Software Engineer based in the Hampton Roads Metro area & working remotely.  I'm interested in creating projects centered around education/mental health and I'm currently building a Mood Tracker that will (hopefully) help users gain a deeper understanding of their emotional trends. 🧘
 
