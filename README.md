@@ -13,7 +13,7 @@ I'm excited about Open Source projects and actively seeking collaboration opport
 
 [![My Skills](https://skillicons.dev/icons?i=js,express,firebase,mongodb,nodejs,react,ts,wordpress,bootstrap,css,html)](https://skillicons.dev)
 
-<br><br>
+<br>
 
 <h2 align="left"> 🪄 Recent Projects </h2>
 
