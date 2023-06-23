@@ -1,31 +1,35 @@
 ![](https://github.com/gwendolyn954/gwendolyn954/blob/main/linkedin-github-banner.png)
 
-# Hi, I'm Gwendolyn Asani 👋🏾 
+# Hey, I'm Gwendolyn Asani!
 
-- 🌎 I'm based in Hampton Roads Metro, VA & working remotely
-- 🔍 I'm a Software Engineer with a background in Project Management
-- 🖥 View my portfolio [here](https://www.gwendolynasani.me/)
-- ✉️ You can contact me at gwen.asani9@gmail.com
-- ✨ I’m looking to collaborate on Open Source projects
+I'm a Software Engineer based in the Hampton Roads Metro area & working remotely.  I'm interested in creating projects centered around education/mental health and I'm currently building a Mood Tracker that will (hopefully) help users gain a deeper understanding of their emotional trends. 🧘
+
+I'm excited about Open Source projects and actively seeking collaboration opportunities with like-minded developers.  If you have any exciting projects or ideas, feel free to reach out!
+
 <br>
 
 
 ## 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,express,firebase,mongodb,nodejs,react,ts,wordpress,bootstrap,css,html)](https://skillicons.dev)
+
 <br><br>
 
 <h2 align="left"> 🪄 Recent Projects </h2>
 
-| <br>Demon Slayer API<br><br>|<br> Lena Lawson Bridal<br><br>|
+| <br>Demon Slayer API<br><br>|<br>Inspiro Quotes<br><br>|
 |----------|----------|
-| ![First Image](https://github.com/gwendolyn954/gwendolyn954/blob/main/demon-slayer.png)<br><br> <p align="center"><a href="https://github.com/gwendolyn954/demon-slayer-api" target="_blank"><img src="https://img.shields.io/badge/Repo-orange?style=for-the-badge&logo=github"/><a href="https://demon-slayer.cyclic.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=000000"/></a></p> <p align="center">An API that serves Demon Slayer character facts.<br> Express, Node.js, JavaScript & EJS</p>| ![Second Image](https://github.com/gwendolyn954/lawson-bridal/blob/main/assets/images/LL-main.png?h=750&w=1260)<br><br> <p align="center"><a href="https://github.com/gwendolyn954/lawson-bridal" target="_blank"><img src="https://img.shields.io/badge/Repo-orange?style=for-the-badge&logo=github"/><a href="https://lenalawson.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=000000"/></a></p><p align="center">Elegant bridal lookbook for UK-based studio.<br> Javascript, CSS3, & HTML5</p><br> |
+|![First Image](https://github.com/gwendolyn954/gwendolyn954/blob/main/demon-slayer.png?h=750&w=1260)<br><br> <p align="center"><a href="https://github.com/gwendolyn954/demon-slayer-api" target="_blank"><img src="https://img.shields.io/badge/Repo-orange?style=for-the-badge&logo=github"/><a href="https://demon-slayer.cyclic.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=000000"/></a></p> <p align="center">An API that serves Demon Slayer character facts.<br> Express, Node.js, JavaScript & EJS</p>| ![Second Image](https://github.com/gwendolyn954/inspiro-quotes/blob/main/images/inspiro-quotes-1.png?h=750&w=1260)<br><br> <p align="center"><a href="https://github.com/gwendolyn954/inspiro-quotes" target="_blank"><img src="https://img.shields.io/badge/Repo-orange?style=for-the-badge&logo=github"/><a href="https://inspiroquotes.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=000000"/></a></p><p align="center">An inspirational quote generator.<br> Quotable.io API, Javascript, CSS3, & HTML5</p><br> |
 
  
-<h2 align="left">Let's Connect :)</h3>
+<h2 align="left">🗣️ Let's Connect</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gwendolyndev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gwendolyn-asani-dev" height="30" width="40" /></a>
-<a href="https://twitter.com/gwendolyn_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gwendolyn_dev" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gwendolyndev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+ <a href="https://twitter.com/gwendolyn_dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 
