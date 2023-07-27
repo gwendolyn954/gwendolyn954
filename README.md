@@ -2,11 +2,10 @@
 
 # Hey, I'm Gwendolyn!
 
-I'm a Software Engineer based in the Hampton Roads Metro area & working remotely.  I'm interested in creating projects centered around education/mental health and I'm currently building a Mood Tracker that will (hopefully) help users gain a deeper understanding of their emotional trends. 🧘
-
-I'm excited about Open Source projects and actively seeking collaboration opportunities with like-minded developers.  
-
-If you have any exciting projects or ideas, feel free to reach out!
+- 👩🏾‍💻 I'm a Software Engineer based in VA & working remotely
+- 🩵 I'm interested in creating projects centered around education & mental health
+- ✨ I'm developing a Mood Tracker that will help users gain a deeper understanding of their emotional trends
+- 🔭 I'm excited about open source projects & actively seeking collaboration opportunities!
 
 <br>
 
