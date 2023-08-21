@@ -1,11 +1,11 @@
-![](https://github.com/gwendolyn954/gwendolyn954/blob/main/linkedin-github-banner.png)
+# Hey, I'm Gwendolyn! ☀️
 
-# Hey, I'm Gwendolyn!
+I'm a Technical Project Manager turned Software Engineer.  When my team was impacted by the pandemic, I volunteered to learn to code while on the job.  Through code, I've had the opportunity to build websites for small businesses & develop web applications for non-profits that directly impacted lives for the better.   
 
-- 👩🏾‍💻 I'm a Software Engineer based in VA & working remotely
-- 🩵 I'm interested in creating projects centered around education & mental health
-- ✨ My next project will be a Mood Tracker that helps users gain a deeper understanding of their emotional trends
-- 🔭 I'm excited about open source projects & actively seeking collaboration opportunities!
+- 📍 I'm based in Virginia, US & working remotely
+- 👺 I'm currently adding new character data & endpoints to my first API build: [Demon Slayer API](https://demon-slayer.cyclic.app/)
+- 💻 I'm developing a Mood Tracker that helps users gain a deeper understanding of their emotional trends
+- 🌻 Fun fact: kids & seniors are my favorite people, so I host virtual meetups focused on keeping them safe online & finding resources they may need 
 
 <br>
 
@@ -28,3 +28,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+9
