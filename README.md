@@ -4,7 +4,7 @@
 
 - 👩🏾‍💻 I'm a Software Engineer based in VA & working remotely
 - 🩵 I'm interested in creating projects centered around education & mental health
-- ✨ I'm developing a Mood Tracker that will help users gain a deeper understanding of their emotional trends
+- ✨ My next project will be a Mood Tracker that helps users gain a deeper understanding of their emotional trends
 - 🔭 I'm excited about open source projects & actively seeking collaboration opportunities!
 
 <br>
