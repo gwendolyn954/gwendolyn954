@@ -5,7 +5,7 @@
 I'm a Technical Project Manager turned Software Engineer.  When my team was impacted by the pandemic, I volunteered to learn to code while on the job.  Through code, I've had the opportunity to build websites for small businesses & develop web applications for non-profits that directly impacted lives for the better.   
 
 - &nbsp;🌎 &nbsp;I'm based in Virginia, US & working remotely
-- &nbsp;👺&nbsp; I'm currently adding new character data & endpoints to my first API build: [Demon Slayer API](https://demon-slayer.cyclic.app/)
+- &nbsp;👺&nbsp; I'm currently adding new character data & endpoints to my API build: [Demon Slayer API](https://demon-slayer.cyclic.app/)
 - &nbsp;💻 &nbsp;I'm developing a Mood Tracker that helps users gain a deeper understanding of their emotional trends
 - &nbsp;🌻 &nbsp;+ Kids & seniors are my favorite people, so I host virtual meetups focused on keeping them safe online (& help them find any resources they may need)
 
