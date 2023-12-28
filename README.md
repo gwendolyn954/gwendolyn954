@@ -1,4 +1,4 @@
-# Hey, I'm Gwendolyn! ☀️
+# Hey, I'm Gwendolyn! 🪩
 
 ![Gradient Line](https://github.com/gwendolyn954/gwendolyn954/blob/main/line.png)
 
