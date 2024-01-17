@@ -2,7 +2,8 @@
 
 ![Gradient Line](https://github.com/gwendolyn954/gwendolyn954/blob/main/line.png)
 
-I'm a Technical Project Manager turned Software Engineer.  When my team was impacted by the pandemic, I volunteered to learn to code while on the job.  Through code, I've had the opportunity to build websites for small businesses & develop web applications for non-profits that directly impacted lives for the better.   
+I'm a Technical Project Manager turned Software Engineer.  When my team was impacted by the pandemic, I volunteered to learn to code while on the job.  Through code, I've had the opportunity to develop websites & applications for some amazing entrepreneurs, creators, & non-profits.
+
 
 - &nbsp;🌎 &nbsp;I'm based in Virginia, US & working remotely
 - &nbsp;👺&nbsp; I'm currently adding new character data & endpoints to the [Demon Slayer API](https://demon-slayer.cyclic.app/)
