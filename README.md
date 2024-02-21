@@ -7,7 +7,6 @@ I'm a Technical Project Manager turned Software Engineer.  When my team was impa
 
 - &nbsp;🌎 &nbsp;I'm based in Virginia, US & working remotely
 - &nbsp;👺&nbsp; I'm currently adding new character data & endpoints to the [Demon Slayer API](https://demon-slayer.cyclic.app/)
-- &nbsp;💻 &nbsp;I'm developing a [Mood Tracker](https://github.com/gwendolyn954/moodscape) that helps users gain a deeper understanding of their emotional trends
 - &nbsp;🌻 &nbsp;I host virtual meetups focused on keeping seniors safe online & help them find online resources that make their lives easier
 
 <br>
