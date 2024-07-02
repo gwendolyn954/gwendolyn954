@@ -1,12 +1,10 @@
 ## Hey, I'm Gwendolyn :)
 
-![Profile Banner depicting name and title](https://github.com/gwendolyn954/gwendolyn954/blob/main/dev-banner-text.png)
+![Profile Banner depicting name and title](https://github.com/gwendolyn954/gwendolyn954/blob/main/banner-3.png)
 
 I'm a Software Developer, specializing in building web applications tailored for creatives.  I blend functionality and aesthetics to bring ideas to life. In my current position,  I've had the honor of directing a volunteer initiative that advocates leveraging technology to empower underserved communities.  
 
 Beyond code, you'll find me working on my own creative projects (watercolors or calligraphy) or adding a new plant to my collection. 🪴
-
-![Divider](https://github.com/gwendolyn954/gwendolyn954/blob/main/rose-divider.png)
 
 
 ## • Languages & Tools •
@@ -14,7 +12,7 @@ Beyond code, you'll find me working on my own creative projects (watercolors or 
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,vite,cs,wordpress,bootstrap,css,html,figma,postman,github)](https://skillicons.dev)
 
 
-## • What I'm Working On •
+## • Recent Projects •
 
 
 | <br><br> Demon Slayer API 👺 <br><br><br> | <br><br> Inspiro Quotes 🌻 <br><br><br> |
