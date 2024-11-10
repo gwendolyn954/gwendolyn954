@@ -1,6 +1,6 @@
 ## Hey, I'm Gwendolyn :)
 
-![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/banner-3.png)
+![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/banner-4.png)
 
 I'm a Digital Project Manager & Software Developer, specializing in building web applications tailored for creatives.  I blend functionality and aesthetics to bring ideas to life. In my current position,  I've had the honor of directing a volunteer initiative that advocates leveraging technology to empower underserved communities.  
 
