@@ -1,8 +1,8 @@
 ## Hey, I'm Gwendolyn :)
 
-![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/gh-banner-linkedin.png)
+![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/gh-banner-01.png)
 
-I'm a Digital Project Manager, leading software development projects at Indie Virtual.   I'm also a Freelance Software Developer, specializing in building web applications tailored for creative educators & non-profits. 
+I'm a Senior Project Manager, leading software development & implementation projects at Indie Virtual.   I'm also a Freelance Software Developer, specializing in building web applications tailored for creative educators, entrepreneurs, and non-profits. 
 
 Beyond work/code, you'll find me working on new illustration projects or adding a new plant to my ever-growing collection. 🪴🌷
 
