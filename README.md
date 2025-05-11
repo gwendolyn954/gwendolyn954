@@ -2,9 +2,9 @@
 
 ![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/gh-banner-01.png)
 
-I'm a Senior Project Manager, leading software development & implementation projects at Indie Virtual.   I'm also a Freelance Software Developer, specializing in building web applications tailored for creative educators, entrepreneurs, and non-profits. 
+By day, I'm a Senior Digital Project Manager, leading software development & integration projects at Indie Virtual.   By night, I'm a Software Developer + Digital Illustrator, specializing in building custom web applications and digital products for creatives. 
 
-Beyond work/code, you'll find me working on new illustration projects or adding a new plant to my ever-growing collection. 🪴🌷
+Beyond work, you'll find me spending time outside or adding a new plant to my ever-growing collection. 🪴🌷
 
 
 ## • Languages & Tools •
