@@ -19,7 +19,7 @@ I'm a Developer + Digital Illustrator building modern web experiences for creati
 
 <br>
 
-<h2>Projects 🫧 </h2>
+<h2>Mini Projects 🫧 </h2>
 <!-- Bottom: Two smaller projects side-by-side -->
 <p align="center">
   <a href="https://github.com/gwendolyn954/inspiro-quotes" target="_blank" title="Inspiro Quotes">
