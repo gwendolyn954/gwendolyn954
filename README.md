@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/dev-linkedin-light.png)
+![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/dev-linkedin-blk.png)
 
 <h2>Hello :) 🫧 </h2>
 I'm a Developer + Digital Illustrator building modern web experiences for creatives + educators. Beyond work, you'll find me spending time outside or adding a new plant to my ever-growing collection. 🪴🌷
