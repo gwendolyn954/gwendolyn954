@@ -26,7 +26,7 @@ I'm a Developer + Digital Illustrator building modern web experiences for creati
     <img src="https://github.com/gwendolyn954/inspiro-quotes/blob/main/images/inspiro-home.png" alt="Inspiro Quotes – Screenshot" width="49%">
   </a>
   <a href="https://github.com/gwendolyn954/writing-prompts" target="_blank" title="Romanticism Prompts">
-    <img src="https://github.com/gwendolyn954/writing-prompts/blob/main/assets/img/writing-prompts-main.png" alt="Romanticism Prompts– Screenshot" width="49%">
+    <img src="https://github.com/gwendolyn954/writing-prompts/blob/main/assets/img/Romanticism%20Prompts%20-%2011.2.25.png" alt="Romanticism Prompts– Screenshot" width="49%">
   </a>
 </p>
 
