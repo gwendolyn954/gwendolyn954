@@ -1,11 +1,11 @@
-![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/dev-linkedin-blk.png)
+![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/ghbanner-03.png)
 
-<h2>Hello :) 🫧 </h2>
-I'm a Developer + Digital Illustrator building modern web experiences for creatives + educators. Beyond work, you'll find me spending time outside or adding a new plant to my ever-growing collection. 🪴🌷
+<h2>Hello :)</h2>
+I'm a Software Developer + Illustrator that creates fun, meaningful web experiences. Beyond work, you'll find me spending time outside or adding a new plant to my ever-growing collection. 🌷
 
 <br>
 
-<h2>Languages | Tools 🫧 </h2>
+<h2>Languages | Tools </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,vite,css,html,figma,postman,github,netlify,codepen,notion)](https://skillicons.dev)
 
@@ -19,7 +19,7 @@ I'm a Developer + Digital Illustrator building modern web experiences for creati
 
 <br>
 
-<h2>Mini Projects 🫧 </h2>
+<h2>Mini Projects </h2>
 <!-- Bottom: Two smaller projects side-by-side -->
 <p align="center">
   <a href="https://github.com/gwendolyn954/inspiro-quotes" target="_blank" title="Inspiro Quotes">
