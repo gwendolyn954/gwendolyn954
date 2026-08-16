@@ -63,7 +63,7 @@
 <td width="33%" valign="top">
   <a href="YOUR-INSPIRO-QUOTES-URL">
     <img
-      src="./assets/inspiro-quotes-preview.png"
+      src="https://github.com/gwendolyn954/inspiro-quotes/blob/main/images/inspiro-home.png"
       width="100%"
       alt="Inspiro Quotes preview"
     />
@@ -83,7 +83,7 @@
   <code>Creative Tech</code>
   <br /><br />
 
-  <a href="YOUR-INSPIRO-QUOTES-URL">
+  <a href="https://github.com/gwendolyn954/inspiro-quotes">
     View Project →
   </a>
 </td>
