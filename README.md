@@ -50,7 +50,7 @@
   <strong>Sky Gazers</strong>
   <br />
   <sub>
-    A playful way to explore space through NASA's Astronomy
+    A playful way for students to explore space through NASA's Astronomy
     Picture of the Day.
   </sub>
   <br /><br />
