@@ -3,7 +3,7 @@
 <h2 align="center">Hey, I'm Gwen! 👋🏾</h2>
 <br>
 <p align="center">Software Developer + Illustrator who loves creating meaningful web experiences, <br> especially ones that help people learn about the world or themselves.</p>
-<br>
+
 
 <p align="center">
 ───────────────────── 🌺 ─────────────────────
@@ -31,7 +31,7 @@
   </a>
 </td>
 
-<td width="29%" valign="top">
+<td width="32%" valign="top">
   <a href="https://github.com/gwendolyn954/sky-gazers">
     <img
       src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
