@@ -34,7 +34,7 @@
 <td width="33%" valign="top">
   <a href="https://github.com/gwendolyn954/sky-gazers">
     <img
-      src="https://github.com/gwendolyn954/sky-gazers/blob/main/sky-gazers-result.png"
+      src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
       width="100%"
       alt="Sky Gazers preview"
     />
