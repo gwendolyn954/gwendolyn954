@@ -1,7 +1,8 @@
 ![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/banner.png)
 
-<h2>Hey!</h2>
-I'm a Software Developer + Illustrator that loves creating beautiful, meaningful web experiences - especially ones that help kids learn fun things. Beyond work, you'll find me spending time outside or adding a new plant to my ever-growing collection. 🌷
+<h2>Hey! 👋 </h2>
+I'm a Developer + Illustrator who loves creating meaningful web experiences, especially ones that help people learn about the world or themselves.
+
 
 <br>
 
