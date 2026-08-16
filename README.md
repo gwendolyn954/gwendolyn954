@@ -1,41 +1,98 @@
-![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/banner.png)
+![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/gh-profile-header.png)
 
-<h2>Hey! 👋 </h2>
-I'm a Developer + Illustrator who loves creating meaningful web experiences, especially ones that help people learn about the world or themselves.
-
-
+<h2 align="center">Hey, I'm Gwen! 👋🏾</h2>
+<br>
+<p align="center">Software Developer + Illustrator who loves creating meaningful web experiences, <br> especially ones that help people learn about the world or themselves.</p>
 <br>
 
-<h2>Languages | Tools </h2>
+<p align="center">
+───────────────────── 🌺 ─────────────────────
+</p>
+
+<h2>🌺 Featured Work </h2>
+
+<table> <tr> <td width="33%" valign="top"> <a href="https://github.com/gwendolyn954/demon-slayer-api"> <img src="./assets/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br /><br />
+
+  <strong>Demon Slayer API</strong>
+  <br />
+  <sub>
+    A fan-built API and creative project exploring the characters,
+    relationships, and world of Demon Slayer.
+  </sub>
+  <br /><br />
+
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>REST API</code>
+  <code>Illustration</code>
+  <br /><br />
+
+  <a href="https://github.com/gwendolyn954/demon-slayer-api">
+    View Project →
+  </a>
+</td>
+
+<td width="33%" valign="top">
+  <a href="https://skygazers-demo.netlify.app/">
+    <img
+      src="./assets/sky-gazers-preview.png"
+      width="100%"
+      alt="Sky Gazers preview"
+    />
+  </a>
+  <br /><br />
+
+  <strong>Sky Gazers</strong>
+  <br />
+  <sub>
+    A playful way to explore space through NASA's Astronomy
+    Picture of the Day.
+  </sub>
+  <br /><br />
+
+  <code>JavaScript</code>
+  <code>NASA API</code>
+  <code>Creative Tech</code>
+  <code>Learning</code>
+  <br /><br />
+
+  <a href="https://skygazers-demo.netlify.app/">
+    Live Demo →
+  </a>
+</td>
+
+<td width="33%" valign="top">
+  <a href="YOUR-INSPIRO-QUOTES-URL">
+    <img
+      src="./assets/inspiro-quotes-preview.png"
+      width="100%"
+      alt="Inspiro Quotes preview"
+    />
+  </a>
+  <br /><br />
+
+  <strong>Inspiro Quotes</strong>
+  <br />
+  <sub>
+    A simple web experience designed to offer a little
+    inspiration whenever you need it.
+  </sub>
+  <br /><br />
+
+  <code>JavaScript</code>
+  <code>Web App</code>
+  <code>Creative Tech</code>
+  <br /><br />
+
+  <a href="YOUR-INSPIRO-QUOTES-URL">
+    View Project →
+  </a>
+</td>
+
+</tr> </table>
+
+<h2>🌺 Tools I Build With </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,vite,css,html,figma,postman,github,netlify,codepen,notion)](https://skillicons.dev)
 
-<!-- Top: Large project img-->
-<h2><a href="https://github.com/gwendolyn954/demon-slayer-api" target="_blank" title="Demon Slayer API">✨✨ Favorite Project: Demon Slayer API ✨✨</a></h2>
-<p align="center">
-    <a href="https://demon-slayer-api-9c6c.onrender.com/" target="_blank" title="Demon Slayer API">
-      <img src="https://github.com/gwendolyn954/demon-slayer-api/blob/main/public/assets/ds-updated.png" alt="Project 1 – Demon Slayer API screenshot" width="100%">
-    </a>
-</p>
 
-<br>
-
-<h2>Mini Projects </h2>
-<!-- Bottom: Two smaller projects side-by-side -->
-<p align="center">
-  <a href="https://github.com/gwendolyn954/inspiro-quotes" target="_blank" title="Inspiro Quotes">
-    <img src="https://github.com/gwendolyn954/inspiro-quotes/blob/main/images/inspiro-home.png" alt="Inspiro Quotes – Screenshot" width="49%">
-  </a>
-  <a href="https://github.com/gwendolyn954/writing-prompts" target="_blank" title="Romanticism Prompts">
-    <img src="https://github.com/gwendolyn954/writing-prompts/blob/main/assets/img/Romanticism%20Prompts%20-%2011.2.25.png" alt="Romanticism Prompts– Screenshot" width="49%">
-  </a>
-</p>
-
-
-<!-- 
-| <br><br><br>Demon Slayer API 👺 <br><br><br> | <br><br> Inspiro Quotes 🌻 <br><br>|
-| ---------- | ---------- |
-|![First Image](https://github.com/gwendolyn954/demon-slayer-api/blob/main/public/assets/ds-updated.png)<br><br><br> <p align="center"><a href="https://github.com/gwendolyn954/demon-slayer-api" target="_blank"><img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github&color=coral"/><a href="https://demon-slayer-api-9c6c.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/-demo-green?style=for-the-badge&color=turquoise"/></a></p> <p align="center">An API that serves Demon Slayer character facts.<br> Express.js • Node.js • JavaScript • EJS</p><br>|![Second Image](https://github.com/gwendolyn954/inspiro-quotes/blob/main/images/inspiro-home.png)<br><br> <p align="center"><a href="https://github.com/gwendolyn954/inspiro-quotes" target="_blank"><img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&logo=github&color=pink"/><a href="https://inspiroquotes.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-demo-green?style=for-the-badge&color=lavender"/></a></p><p align="center">An inspirational quote generator.<br> [QuoteSlate API](https://quoteslate.vercel.app/) • Javascript • CSS3 • HTML5</p><br> |  
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
