@@ -11,7 +11,7 @@
 
 <h2>🌺 Featured Work </h2>
 
-<table> <tr> <td width="33%" valign="top"> <a href="https://github.com/gwendolyn954/demon-slayer-api"> <img src="./assets/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br /><br />
+<table> <tr> <td width="33%" valign="top"> <a href="https://github.com/gwendolyn954/demon-slayer-api"> <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br /><br />
 
   <strong>Demon Slayer API</strong>
   <br />
@@ -24,7 +24,6 @@
   <code>Node.js</code>
   <code>Express</code>
   <code>REST API</code>
-  <code>Illustration</code>
   <br /><br />
 
   <a href="https://github.com/gwendolyn954/demon-slayer-api">
