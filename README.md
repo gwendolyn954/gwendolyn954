@@ -31,7 +31,7 @@
   </a>
 </td>
 
-<td width="33%" valign="top">
+<td width="29%" valign="top">
   <a href="https://github.com/gwendolyn954/sky-gazers">
     <img
       src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
@@ -51,7 +51,6 @@
 
   <code>JavaScript</code>
   <code>NASA API</code>
-  <code>Creative Tech</code>
   <code>Learning</code>
   <br /><br />
 
@@ -61,7 +60,7 @@
 </td>
 
 <td width="33%" valign="top">
-  <a href="YOUR-INSPIRO-QUOTES-URL">
+  <a href="https://github.com/gwendolyn954/inspiro-quotes">
     <img
       src="https://github.com/gwendolyn954/inspiro-quotes/blob/main/images/inspiro-home.png"
       width="100%"
