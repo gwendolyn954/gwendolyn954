@@ -32,9 +32,9 @@
 </td>
 
 <td width="33%" valign="top">
-  <a href="https://skygazers-demo.netlify.app/">
+  <a href="https://github.com/gwendolyn954/sky-gazers">
     <img
-      src="./assets/sky-gazers-preview.png"
+      src="https://github.com/gwendolyn954/sky-gazers/blob/main/sky-gazers-result.png"
       width="100%"
       alt="Sky Gazers preview"
     />
