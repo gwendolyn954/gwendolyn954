@@ -4,6 +4,11 @@
 <br>
 <p align="center">Software Developer + Illustrator who loves creating meaningful web experiences, <br> especially ones that help people learn about the world or themselves.</p>
 
+<p align="center">
+<a href="https://gwendolynasani.com/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+
+</p>
+
 
 <p align="center">
 ───────────────────── 🌺 ─────────────────────
@@ -11,12 +16,12 @@
 
 <h2>🌺 Featured Work </h2>
 
-<table> <tr> <td width="33%" valign="top"> <a href="https://github.com/gwendolyn954/demon-slayer-api"> <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br /><br />
+<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/gwendolyn954/demon-slayer-api"> <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br /><br />
 
   <strong>Demon Slayer API</strong>
   <br />
   <sub>
-    A fan-built API and creative project exploring the characters,
+    An API project exploring the characters,
     relationships, and world of Demon Slayer.
   </sub>
   <br /><br />
@@ -24,6 +29,7 @@
   <code>Node.js</code>
   <code>Express</code>
   <code>REST API</code>
+  <code>Built for fun</code>
   <br /><br />
 
   <a href="https://github.com/gwendolyn954/demon-slayer-api">
@@ -31,7 +37,7 @@
   </a>
 </td>
 
-<td width="32%" valign="top">
+<td width="50%" valign="top">
   <a href="https://github.com/gwendolyn954/sky-gazers">
     <img
       src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
@@ -51,39 +57,12 @@
 
   <code>JavaScript</code>
   <code>NASA API</code>
-  <code>Learning</code>
+  <code>Learning App</code>
+  <code>Educational</code>
   <br /><br />
 
   <a href="https://skygazers-demo.netlify.app/">
     Live Demo →
-  </a>
-</td>
-
-<td width="33%" valign="top">
-  <a href="https://github.com/gwendolyn954/inspiro-quotes">
-    <img
-      src="https://github.com/gwendolyn954/inspiro-quotes/blob/main/images/inspiro-home.png"
-      width="100%"
-      alt="Inspiro Quotes preview"
-    />
-  </a>
-  <br /><br />
-
-  <strong>Inspiro Quotes</strong>
-  <br />
-  <sub>
-    A simple web experience designed to offer a little
-    inspiration whenever you need it.
-  </sub>
-  <br /><br />
-
-  <code>JavaScript</code>
-  <code>Web App</code>
-  <code>Creative Tech</code>
-  <br /><br />
-
-  <a href="https://github.com/gwendolyn954/inspiro-quotes">
-    View Project →
   </a>
 </td>
 
