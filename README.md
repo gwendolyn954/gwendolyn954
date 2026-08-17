@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey, I'm Gwen! 👋🏾</h2>
 <br>
-<p align="center">Software Developer + Illustrator who loves creating meaningful web experiences, <br> especially ones that help people learn about the world or themselves.</p>
+<p align="center">I work across systems, implementations, and technical projects that make complex tools easier for people to use. <br> I’m also a Software Developer + Illustrator, creating thoughtful web experiences inspired by learning and exploration.</p>
 
 <p align="center">
 <a href="https://gwendolynasani.com/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
@@ -72,4 +72,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,vite,css,html,figma,postman,github,netlify,codepen,notion)](https://skillicons.dev)
 
+<h2>🌺 What I'm Working On </h2>
+• Building new experiments and tools at Sweetpea Labs <br>
+• Improving the Demon Slayer API <br>
+• My tiny (but cute) garden 🪴
 
