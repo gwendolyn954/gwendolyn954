@@ -16,7 +16,9 @@
 
 <h2>🌺 Featured Work </h2>
 
-<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/gwendolyn954/demon-slayer-api"> <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br>
+<table> <tr> <td width="50%" valign="top"> 
+  <a href="https://github.com/gwendolyn954/demon-slayer-api"> 
+    <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br>
 
   <h3>Demon Slayer API</h3>
   <p>
@@ -31,8 +33,8 @@
   <code>Built for fun</code>
   <br>
 
-  <a href="https://github.com/gwendolyn954/demon-slayer-api">
-    View Project →
+  <a href="https://demon-slayer-api-9c6c.onrender.com/">
+    Live Demo →
   </a>
 </td>
 
