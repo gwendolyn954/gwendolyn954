@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey, I'm Gwen! 👋🏾</h2>
 <br>
-<p align="center">I work across systems, implementations, and technical projects that make complex tools easier for people to use. <br> I’m also a Software Developer + Illustrator, creating thoughtful web experiences inspired by learning and exploration.</p>
+<p align="center">I’m a Software Developer + Illustrator, creating thoughtful web experiences inspired by learning and exploration. <br> I also work across systems, implementations, and technical projects that make complex tools easier for people to use.</p>
 
 <p align="center">
 <a href="https://gwendolynasani.com/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
