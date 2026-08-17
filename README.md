@@ -16,21 +16,20 @@
 
 <h2>🌺 Featured Work </h2>
 
-<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/gwendolyn954/demon-slayer-api"> <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br /><br />
+<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/gwendolyn954/demon-slayer-api"> <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br>
 
-  <strong>Demon Slayer API</strong>
-  <br />
-  <sub>
+  <h3>Demon Slayer API</h3>
+  <p>
     An API project exploring the characters,
     relationships, and world of Demon Slayer.
-  </sub>
-  <br /><br />
+  </p>
+  <br>
 
   <code>Node.js</code>
   <code>Express</code>
   <code>REST API</code>
   <code>Built for fun</code>
-  <br /><br />
+  <br>
 
   <a href="https://github.com/gwendolyn954/demon-slayer-api">
     View Project →
@@ -45,21 +44,20 @@
       alt="Sky Gazers preview"
     />
   </a>
-  <br /><br />
+  <br>
 
-  <strong>Sky Gazers</strong>
-  <br />
-  <sub>
+  <h3>Sky Gazers</h3>
+  <p>
     A playful way for students to explore space through NASA's Astronomy
     Picture of the Day.
-  </sub>
-  <br /><br />
+  </p>
+  <br>
 
   <code>JavaScript</code>
   <code>NASA API</code>
   <code>Learning App</code>
   <code>Educational</code>
-  <br /><br />
+  <br>
 
   <a href="https://skygazers-demo.netlify.app/">
     Live Demo →
