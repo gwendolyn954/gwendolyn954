@@ -30,7 +30,7 @@
   <code>Node.js</code>
   <code>Express</code>
   <code>REST API</code>
-  <code>Built for fun</code>
+  <code>Built For Fun</code>
   <br>
 
   <a href="https://demon-slayer-api-9c6c.onrender.com/">
