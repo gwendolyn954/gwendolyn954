@@ -10,12 +10,6 @@
 </p>
 
 
-<p align="center">
-🌺 <br>
-🌺 <br>
-🌺 <br>
-</p>
-
 <h2>🌺 Featured Work </h2>
 
 <table> <tr> <td width="50%" valign="top"> 
