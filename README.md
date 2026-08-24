@@ -11,7 +11,9 @@
 
 
 <p align="center">
-─────────────── 🌺 ───────────────
+🌺 <br>
+🌺 <br>
+🌺 <br>
 </p>
 
 <h2>🌺 Featured Work </h2>
