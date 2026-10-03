@@ -1,12 +1,11 @@
 ![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/gh-profile-header.png)
 
-<h2 align="center">🌺 Intro 🌺</h2>
-<p align="center">Hello! I'm a Creative Tech Director + Illustrator, specializing in thoughtful web experiences inspired by learning and exploration. <br> I work across software development, implementations, and other technical projects that make complex tools easier for people to use.</p>
+<h2>🌺 Intro 🌺</h2>
+<p>Hello! I'm a Creative Tech Director + Illustrator, specializing in thoughtful web experiences inspired by learning and exploration. <br> I work across software development, implementations, and other technical projects that make complex tools easier for people to use.</p>
 
-<p align="center">
 <a href="https://gwendolynasani.com/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 
-</p>
+
 
 
 <h2>🌺 Featured Work 🌺 </h2>
