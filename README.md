@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/gh-profile-header.png)
+![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/portfolio-header.png)
 
 <h2>🌺 Intro 🌺</h2>
 <p>Hello! I'm a Creative Tech Director + Illustrator, specializing in thoughtful web experiences inspired by learning and exploration. <br> I work across software development, implementations, and other technical projects that make complex tools easier for people to use.</p>
