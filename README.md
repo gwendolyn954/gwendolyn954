@@ -1,6 +1,6 @@
 ![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/portfolio-header.png)
 
-<h2>🌺 Intro 🌺</h2>
+<h2>Intro 🌺</h2>
 <p>Hello! I'm a Creative Tech Director + Illustrator, specializing in thoughtful web experiences inspired by learning and exploration. <br> I work across software development, implementations, and other technical projects that make complex tools easier for people to use.</p>
 
 <a href="https://gwendolynasani.com/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
@@ -8,7 +8,7 @@
 
 
 
-<h2>🌺 Featured Work 🌺 </h2>
+<h2>Featured Work 🌺 </h2>
 
 <table> <tr> <td width="50%" valign="top"> 
   <a href="https://github.com/gwendolyn954/demon-slayer-api"> 
@@ -62,12 +62,12 @@
 
 </tr> </table>
 
-<h2>🌺 Tools I Work With 🌺</h2>
+<h2>Tools I Work With 🌺</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,vite,css,html,figma,postman,github,netlify,codepen,notion)](https://skillicons.dev)
 
 
-<h2>🌺 What I'm Working On 🌺</h2>
+<h2>What I'm Working On 🌺</h2>
 • Helping build productivity and learning tools at Sweetpea Labs <br>
 • My tiny (adorable) garden 🪴
 
