@@ -12,7 +12,8 @@
 
 <table> <tr> <td width="50%" valign="top"> 
   <a href="https://github.com/gwendolyn954/demon-slayer-api"> 
-    <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/ds-updated.png" width="100%" alt="Demon Slayer API preview" /> </a> <br>
+    <img src="https://github.com/gwendolyn954/gwendolyn954/blob/main/api.png" width="100%" alt="Demon Slayer API preview" /> </a> 
+<br>
 
   <h3>Demon Slayer API</h3>
   <p>
@@ -33,14 +34,11 @@
 </td>
 
 <td width="50%" valign="top">
-  <a href="https://github.com/gwendolyn954/sky-gazers">
-    <img
-      src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
-      width="100%"
-      alt="Sky Gazers preview"
-    />
-  </a>
-  <br>
+<img
+  src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
+  width="100%"
+  alt="Preview of the Sky Gazers web application"
+/>
 
   <h3>Sky Gazers</h3>
   <p>
@@ -51,7 +49,6 @@
 
   <code>JavaScript</code>
   <code>NASA API</code>
-  <code>Learning App</code>
   <code>Educational</code>
   <br>
 
