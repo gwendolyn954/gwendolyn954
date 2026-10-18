@@ -1,11 +1,9 @@
 ![Profile Banner](https://github.com/gwendolyn954/gwendolyn954/blob/main/portfolio-header.png)
 
 <h2>Intro 🌺</h2>
-<p>Hello! I'm a Creative Tech Director + Illustrator, specializing in thoughtful web experiences inspired by learning and exploration. <br> I work across software development, implementations, and other technical projects that make complex tools easier for people to use.</p>
+<p>Hello! I'm a Creative Tech Director + Illustrator, specializing in thoughtful web experiences inspired by learning and exploration. I work across software development, implementations, and other technical projects that make complex tools easier for people to use.</p>
 
 <a href="https://gwendolynasani.com/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
-
-
 
 
 <h2>Featured Work 🌺 </h2>
@@ -16,17 +14,12 @@
 <br>
 
   <h3>Demon Slayer API</h3>
-  <p>
-    An API project exploring the characters,
-    relationships, and world of Demon Slayer.
-  </p>
-  <br>
+  <p>An API project exploring the characters,relationships, and world of Demon Slayer.</p>
 
   <code>Node.js</code>
   <code>Express</code>
   <code>REST API</code>
   <code>Built For Fun</code>
-  <br>
 
   <a href="https://demon-slayer-api-9c6c.onrender.com/">
     Live Demo →
@@ -34,23 +27,18 @@
 </td>
 
 <td width="50%" valign="top">
-<img
-  src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
-  width="100%"
-  alt="Preview of the Sky Gazers web application"
-/>
+  <img
+    src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
+    width="100%"
+    alt="Preview of the Sky Gazers web application"
+  />
 
   <h3>Sky Gazers</h3>
-  <p>
-    A playful way for students to explore space through NASA's Astronomy
-    Picture of the Day.
-  </p>
-  <br>
+  <p>A playful way for students to explore space through NASA's Astronomy Picture of the Day.</p>
 
   <code>JavaScript</code>
   <code>NASA API</code>
   <code>Educational</code>
-  <br>
 
   <a href="https://skygazers-demo.netlify.app/">
     Live Demo →
