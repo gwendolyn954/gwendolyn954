@@ -27,11 +27,14 @@
 </td>
 
 <td width="50%" valign="top">
-  <img
-    src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
-    width="100%"
-    alt="Preview of the Sky Gazers web application"
-  />
+  <a href="https://github.com/gwendolyn954/sky-gazers"> 
+    <img
+      src="https://github.com/gwendolyn954/gwendolyn954/blob/main/sky-gazers-result.png"
+      width="100%"
+      alt="Preview of the Sky Gazers web application"
+    />
+  </a>   
+  
 
   <h3>Sky Gazers</h3>
   <p>A playful way for students to explore space through NASA's Astronomy Picture of the Day.</p>
